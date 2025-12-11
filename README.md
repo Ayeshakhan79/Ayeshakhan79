@@ -16,24 +16,8 @@
 
 [<img align="left" alt="Ayesha Khan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ayesha Khan | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Ayesha Khan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br/>
 
 [linkedin]: https://linkedin.com/in/ayesha-khan
 [github]: https://github.com/Ayeshakhan79
-
-<!--
-**ayeshakhan-data/ayeshakhan-data** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Data Analytics and Sign Language Detection projects.
-- 🌱 I’m currently learning advanced Machine Learning and Power BI.
-- 👯 I’m looking to collaborate on Data Science and AI projects.
-- 🤔 I’m looking for help with large-scale ETL and predictive modeling.
-- 💬 Ask me about Python, SQL, Power BI, and predictive analytics.
-- 📫 How to reach me: ayeshakhan@example.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I’m a Gold Medalist in Computer Engineering!
--->
