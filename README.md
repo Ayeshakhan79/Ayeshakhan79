@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ayesha Khan! <br/><a href="https://github.com/ayeshakhan-data">Data Analyst / Data Scientist</a>, <a href="https://www.linkedin.com/in/ayesha-khan/">Data Enthusiast</a></h1>
+<h1>Hi, I'm Ayesha Khan! <br/><a href="https://github.com/ayeshakhan-data">Data Analyst / Data Scientist</a>, <a href="https://www.linkedin.com/in/ayesha-khan/"></a></h1>
 
 <h2>💻 Technologies & Tools I Work With:</h2>
 
